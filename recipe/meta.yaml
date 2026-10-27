@@ -10,7 +10,7 @@
 
 package:
   name: binutils_split
-  version: {{ version }}
+  version: "{{ version }}"
 
 source:
   - url:
